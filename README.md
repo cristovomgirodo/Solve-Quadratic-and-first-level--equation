@@ -3,7 +3,7 @@ My first repository on GitHub
 
 The file RunRealsComplexRoots.py will solve any equation a*x²+b*x+c = 0 or a*x + b = 0. When run the file RunRealsComplexRoots.py into Python3-Idle3 or any other IDE  provide new values to the coefficients: a = ?, b = ? and c = ? or c = 0 to solve any quadratic equation. To solve any equations of the first level do the coefficients: a = 0, b = ? and c = ? when run the file RunRealsComplexRoots.py.
 
-As example the file RunRealsComplexRoots.py see the use of file  below:
+For example see the use of the file file RunRealsComplexRoots.py below:
 
 Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
 [GCC 9.3.0] on linux
