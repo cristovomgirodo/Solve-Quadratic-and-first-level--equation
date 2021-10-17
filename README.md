@@ -201,4 +201,47 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 		 . . .Key [ENTER] to exit, Ok!. . .
-     
+		 
+5.) The solution of the first level equation 
+
+= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
+
+
+	========================================================
+	  [   Welcome using The RealsComplexRoots.py module  ]
+	--------------------------------------------------------
+	 -_- Find the roots: root1 and root2 reals or complexs 
+	========================================================
+		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		    [Developed by Cristovom A. Girodo]
+
+
+
+	* Provide the 1º [coefficient].
+	-_- What is the new value? 0
+
+	* Enter with the 2º [coefficient].
+	-_- What is the new value? 54
+
+	* Give the 3º [coefficient].
+	-_- What is the new value? -118
+
+
+		============================================
+		| . . . *[ ANSWER TO THE EQUATION ]* . . . |
+		============================================
+
+
+  - The new equation of the first level geted will: [ b*x+c = 0 ]
+    and will have an only real root.
+
+
+	+ The new real root will:  -2.19     
+
+
+  =====================================================================
+  |º>º If necessary process the RealsComplexRoots.py module again! º>º|
+  =====================================================================
+
+
+		 . . .Key [ENTER] to exit, Ok!. . .
