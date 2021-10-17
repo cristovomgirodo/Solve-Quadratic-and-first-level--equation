@@ -155,7 +155,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 		 
-4.) Incomplete equation of first level
+4.) Incomplete quadratic equation 
 
 = RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
 
