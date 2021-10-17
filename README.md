@@ -13,7 +13,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 	========================================================
-	[   Welcome using the The RealsComplexRoots.py module  ]
+	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
@@ -57,7 +57,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 	========================================================
-	[   Welcome using the The RealsComplexRoots.py module  ]
+	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
