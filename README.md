@@ -1,7 +1,7 @@
 # Solve-Quadratic-or-first-level--equations
 My first repository on GitHub
 
-The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x² + b*x + c = 0 and will get two reals or complexs roots of quadratic equation. Too will solve any incomplete quadratic equation as: a*x² + b*x = 0 if coefficient c = 0 or a*x² + c = 0 if the coefficient b = 0 and will two reals or complexs roots and too will solve any first level equation as: a*x + b = 0. When run the file RunRealsComplexRoots.py into Python3-Idle3 or any other IDE provide new values to the coefficients: a = ?, b = ? and c = ? to solve any complete quadratic equation. To solve any equations of the first level run the file RunRealsComplexRoots.py and provide the coefficients: a = 0, b = ? and c = ?.
+The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x² + b*x + c = 0 and will get two reals or complexs roots of quadratic equation. Too will solve any incomplete quadratic equation as: a*x² + b*x = 0 if coefficient c = 0 or a*x² + c = 0 if the coefficient b = 0 and will two reals or complexs roots and too will solve any first level equation as: a*x + b = 0. When run the file RunRealsComplexRoots.py into Python3-Idle3 or any other IDE provide new values to the coefficients: a = ?, b = ? and c = ? to solve any complete quadratic equation. To solve any equations of the first level run the file RunRealsComplexRoots.py and provide the coefficients: a = 0, b = ? and c = ?. If be in Windows operating system open the Python Interpreter before of run the RunRealsComplexRoots.py.
 
 For example see the use of the file RunRealsComplexRoots.py below:
 
