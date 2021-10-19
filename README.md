@@ -236,9 +236,10 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 
 6.) If the coefficients: a = b = c = 0 see below:
+= RESTART: /home/cristovom/Python-3.8.10-Lab/Module-Tools/RunRealsComplexRoots.py
 
-        ========================================================
-	  [   Welcome using The RealsComplexRoots.py module  ]
+	========================================================
+	[   Welcome using the The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
