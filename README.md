@@ -15,7 +15,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 = RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
 
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -59,9 +58,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 
 2.) If the delta discriminant is zero( delta = 0)
 
-= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
-
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -103,9 +99,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 
 		 
 3.) If the delta discriminant is negative( delta < 0) will get two complexs roots of the complete quadratic equation
-
-= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
-
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -159,9 +152,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 
 4.) Incomplete quadratic equation 
 
-= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
-
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -206,9 +196,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 
 5.) The solution of the first level equation 
 
-= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
-
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -249,6 +236,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 
 6.) If the coefficients: a = b = c = 0 see below:
+
         ========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
