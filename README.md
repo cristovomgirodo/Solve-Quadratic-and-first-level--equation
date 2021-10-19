@@ -3,6 +3,8 @@ My first repository on GitHub
 
 The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x² + b*x + c = 0 and will get two reals or complexs roots of quadratic equation. Too will solve any incomplete quadratic equation as: a*x² + b*x = 0 if coefficient c = 0 or a*x² + c = 0 if the coefficient b = 0 and will get two reals or complexs roots. When run the file RunRealsComplexRoots.py into Python3-Idle3 or any other IDE provide new values to the coefficients: a = ?, b = ? and c = ? to solve any complete quadratic equation. The coefficients: a, b and c will can be positive or negative or equal the zero. When use the file RunRealsComplexRoots.py to solve incomplete or complete quadratic equations; but never use all the coefficients: a = b = c = zero. Too will solve any first level equation as: b*x + c = 0. To solve any equations of the first level run the file RunRealsComplexRoots.py and provide the coefficients: a = 0, b = ? and c = ?. The coefficients: b and c will can be positive or negative, but never use all the coefficients: b = c = zero. The file RunRealsComplexRoots.py will run into the Windows operating system without any change.
 
+# Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update. 
+
 For example see the use of the file RunRealsComplexRoots.py below:
 
 1.) If the delta discriminant is positive( delta > 0)
@@ -237,6 +239,65 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 	+ The new real root will:  -2.19     
+
+
+  =====================================================================
+  |º>º If necessary process the RealsComplexRoots.py module again! º>º|
+  =====================================================================
+
+
+		 . . .Key [ENTER] to exit, Ok!. . .
+
+6.) If the coefficients: a = b = c = 0 see below:
+        ========================================================
+	  [   Welcome using The RealsComplexRoots.py module  ]
+	--------------------------------------------------------
+	 -_- Find the roots: root1 and root2 reals or complexs 
+	========================================================
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
+		    [Developed by Cristovom A.Girodo]
+
+
+
+	* Provide the 1º [coefficient(a)].
+	-_- What is the new value? 0
+
+	* Enter with the 2º [coefficient(b)].
+	-_- What is the new value? 0
+
+	* Give the 3º [coefficient(c)].
+	-_- What is the new value? 0
+
+
+	 //////
+	(º < º) [ WARNING! ]
+	 \ - /
+	** [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and
+	     too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]**
+	-- [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]--
+
+
+	* Provide the 1º [coefficient(a)].
+	-_- What is the new value? -3
+
+	* Enter with the 2º [coefficient(b)].
+	-_- What is the new value? 22
+
+	* Give the 3º [coefficient(c)].
+	-_- What is the new value? 35
+
+
+		============================================
+		| . . . *[ ANSWER TO THE EQUATION ]* . . . |
+		============================================
+
+
+   + The new value of [delta] =  904
+   + The value of the [raisedelta] =  30.07     
+
+   + The [roots] are:  
+   + The first  root(root1)= -1.34      
+   + The second root(root2)= 8.68      
 
 
   =====================================================================
