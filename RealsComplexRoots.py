@@ -1,5 +1,5 @@
 #
-# The RealsComplexRoots.py module
+# The RealsComplexRoots.py module -- update in 20211019
 # Developed by Cristovom A. Girodo
 # 
 
@@ -29,6 +29,17 @@ def reals_complex_roots():
                 return u, v, w    # local variables
           
     a, b, c = enterData()
+    
+    # here, update the code of the RealsComplexRoots.py module
+
+    while a == 0 and b == 0 and c == 0:
+        print('\n\n\t //////')
+        print('\t(º < º) [ WARNING! ]')
+        print('\t \ - /')
+        print('\t** [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and')
+        print('\t     too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]**')
+        print('\t-- [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]--\n')
+        a, b, c = enterData()
     
     def answer():
         print("\n   + The [roots] are: ","\n   + The first  root(root1)=",format(root1,"<10.2f"),"\n   + The second root(root2)=",format(root2,"<10.2f"))
