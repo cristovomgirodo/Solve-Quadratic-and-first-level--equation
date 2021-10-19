@@ -236,6 +236,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 
 6.) If the coefficients: a = b = c = 0 see below:
+
 = RESTART: /home/cristovom/Python-3.8.10-Lab/Module-Tools/RunRealsComplexRoots.py
 
 	========================================================
