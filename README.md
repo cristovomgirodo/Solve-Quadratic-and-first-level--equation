@@ -20,7 +20,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
-		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
 		    [Developed by Cristovom A. Girodo]
 
 
@@ -63,7 +63,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
-		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
 		    [Developed by Cristovom A. Girodo]
 
 
@@ -105,7 +105,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
-		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
 		    [Developed by Cristovom A. Girodo]
 
 
@@ -157,7 +157,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
-		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
 		    [Developer: Cristovom A. Girodo]
 
 
@@ -201,7 +201,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	--------------------------------------------------------
 	 -_- Find the roots: root1 and root2 reals or complexs 
 	========================================================
-		 _-_ New Version: 4.0 -- [ Stable ] _-_
+		 _-_ New Version: 4.1 -- [ Stable ] _-_
 		    [Developed by Cristovom A. Girodo]
 
 
