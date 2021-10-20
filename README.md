@@ -25,13 +25,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 
-	* Provide the 1º [coefficient].
+	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? -3
 
-	* Enter with the 2º [coefficient].
+	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? 12
 
-	* Give the 3º [coefficient].
+	* Give the 3º [coefficient(c)].
 	-_- What is the new value? 27
 
 
@@ -68,13 +68,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 
-	* Provide the 1º [coefficient].
+	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? -1
 
-	* Enter with the 2º [coefficient].
+	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? 4
 
-	* Give the 3º [coefficient].
+	* Give the 3º [coefficient(c)].
 	-_- What is the new value? -4
 
 
@@ -110,13 +110,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 
-	* Provide the 1º [coefficient].
+	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? 3
 
-	* Enter with the 2º [coefficient].
+	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? 5
 
-	* Give the 3º [coefficient].
+	* Give the 3º [coefficient(c)].
 	-_- What is the new value? 6
 
 
@@ -162,13 +162,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 
-	* Provide the 1º [coefficient].
+	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? 8
 
-	* Enter with the 2º [coefficient].
+	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? -16
 
-	* Give the 3º [coefficient].
+	* Give the 3º [coefficient(c)].
 	-_- What is the new value? 0
 
 
@@ -206,13 +206,13 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 
 
-	* Provide the 1º [coefficient].
+	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? 0
 
-	* Enter with the 2º [coefficient].
+	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? 54
 
-	* Give the 3º [coefficient].
+	* Give the 3º [coefficient(c)].
 	-_- What is the new value? -118
 
 
