@@ -18,19 +18,19 @@ def reals_complex_roots():
     def enterData():
         for j in range(1, 4):
             if j == 1:
-                print("\n\t* Provide the %dº" %j,"[coefficient].")
+                print("\n\t* Provide the %dº" %j,"[coefficient(a)].")
                 u = introduce()
             elif j == 2:
-                print("\n\t* Enter with the %dº" %j,"[coefficient].")
+                print("\n\t* Enter with the %dº" %j,"[coefficient(b)].")
                 v = introduce()
             elif j == 3:
-                print("\n\t* Give the %dº" %j,"[coefficient].")
+                print("\n\t* Give the %dº" %j,"[coefficient(c)].")
                 w = introduce()
                 return u, v, w    # local variables
           
     a, b, c = enterData()
-    
-    # here, update the code of the RealsComplexRoots.py module
+
+    # update the code of the RealsComplexRoots.py module
 
     while a == 0 and b == 0 and c == 0:
         print('\n\n\t //////')
@@ -38,9 +38,13 @@ def reals_complex_roots():
         print('\t \ - /')
         print('\t** [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and')
         print('\t     too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]**')
-        print('\t-- [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]--\n')
+        print('\t-- [ Enter with [New values] to the [coefficients]: a = ?, b = ? and c = ? ]--\n')
         a, b, c = enterData()
-    
+
+    def answerRoot():
+        print("\n\t+ The new real root will: ",format(root,"<10.2f"))
+        return
+        
     def answer():
         print("\n   + The [roots] are: ","\n   + The first  root(root1)=",format(root1,"<10.2f"),"\n   + The second root(root2)=",format(root2,"<10.2f"))
         return
@@ -88,6 +92,14 @@ def reals_complex_roots():
         elif delta == 0:
             root1 = root2 = (-b+0.0)/(2*a)
             solution = answer()
+
+    # update the code of the RealsComplexRoots.py module
+
+    elif a != 0 and b == 0 and c == 0:
+        print('\n\t**[ Have a incomplete quadratic equation: ]**')
+        print('\t[ a*x**2+0*x+0 = 0 ] ==> [ a*x**2 = 0 ] ==> [ x**2 = 0 / a ] ==> [ x**2 = 0 ] ==> [ x = root1 = root2 = zero ]')
+        root1, root2 = 0, 0
+        solution = answer()
             
     elif a > 0 and b == 0 and c > 0 or a < 0 and b == 0 and c < 0:
         print("\n  - The new equation of the second level geted will: [ a*x**2+c = 0 or\n\
@@ -121,8 +133,17 @@ def reals_complex_roots():
             root = (-c + 0.0) / b
         elif b > 0 and c < 0 or b < 0 and c > 0:
             root = (c + 0.0) / b
-        
-        print("\n\n\t+ The new real root will: ",format(root,"<10.2f"))
+
+        solution = answerRoot()
+
+    # update the code of the RealsComplexRoots.py module
+
+    elif a == 0 and b != 0 and c == 0:
+        print('\n\t**[ Have a incomplete first level equation: ]**')
+        print('\t[ b*x+0 = 0 ] ==> [ b*x = 0 ] ==> [ x = 0 / b ] ==> [ x = 0 ] ==> [ x = root = zero ]\n')
+        root = 0
+        solution = answerRoot()
+            
 
     print("\n\n  =====================================================================")
     print("  |º>º If necessary process the RealsComplexRoots.py module again! º>º|")
@@ -130,6 +151,9 @@ def reals_complex_roots():
 
 
 reals_complex_roots()
+
+
+
 
 
 
