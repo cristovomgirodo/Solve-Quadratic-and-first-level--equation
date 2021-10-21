@@ -56,9 +56,9 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
    + The second root(root2)= 5.61      
 
 
- #=====================================================================
- #|º>º If necessary process the RealsComplexRoots.py module again! º>º|
- #=====================================================================
+ =====================================================================
+ |º>º If necessary process the RealsComplexRoots.py module again! º>º|
+ =====================================================================
 
 
 		 . . .Key [ENTER] to exit, Ok!. . .
