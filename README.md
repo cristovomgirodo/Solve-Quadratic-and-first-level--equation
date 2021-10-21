@@ -13,15 +13,15 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
 # Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.1
 # Note: In 20211021 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.2 
 
-For example see the use of the file RunRealsComplexRoots.py below:
+# For example see the use of the file RunRealsComplexRoots.py below:
 
 # 1.) If the delta discriminant is positive( delta > 0)
 
-Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
-[GCC 9.3.0] on linux
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-= RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
+# Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
+# [GCC 9.3.0] on linux
+# Type "help", "copyright", "credits" or "license()" for more information.
+# >>> 
+# = RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -56,9 +56,9 @@ Type "help", "copyright", "credits" or "license()" for more information.
    + The second root(root2)= 5.61      
 
 
- =====================================================================
- |º>º If necessary process the RealsComplexRoots.py module again! º>º|
- =====================================================================
+ #=====================================================================
+ #|º>º If necessary process the RealsComplexRoots.py module again! º>º|
+ #=====================================================================
 
 
 		 . . .Key [ENTER] to exit, Ok!. . .
@@ -245,8 +245,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 # 6.) If the coefficients: a = b = c = 0 see below:
 
-= RESTART: /home/cristovom/Python-3.8.10-Lab/Module-Tools/RunRealsComplexRoots.py
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -254,7 +252,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	========================================================
 		 _-_ New Version: 4.2 -- [ Stable ] _-_
 		    [Developed by Cristovom A.Girodo]
-
 
 
 	* Provide the 1º [coefficient(a)].
@@ -307,9 +304,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 
 # 7.) If the coefficients: a = ? and b = c = 0 see below:
 
-=============== RESTART: /home/cristovom/RunRealsComplexRoots.py ===============
-
-
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
 	--------------------------------------------------------
@@ -317,7 +311,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	========================================================
 		 _-_ New Version: 4.2 -- [ Stable ] _-_
 		    [Developed by Cristovom A.Girodo]
-
 
 
 	* Provide the 1º [coefficient(a)].
@@ -351,9 +344,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 # 8.) If the coefficients: a = 0, b = ? and c = 0 see below:
-
-=============== RESTART: /home/cristovom/RunRealsComplexRoots.py ===============
-
 
 
 	========================================================
