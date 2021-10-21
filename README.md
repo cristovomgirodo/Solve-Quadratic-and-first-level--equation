@@ -15,7 +15,7 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
 
 For example see the use of the file RunRealsComplexRoots.py below:
 
-1.) If the delta discriminant is positive( delta > 0)
+# 1.) If the delta discriminant is positive( delta > 0)
 
 Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
 [GCC 9.3.0] on linux
@@ -56,15 +56,15 @@ Type "help", "copyright", "credits" or "license()" for more information.
    + The second root(root2)= 5.61      
 
 
-  =====================================================================
-  |º>º If necessary process the RealsComplexRoots.py module again! º>º|
-  =====================================================================
+ =====================================================================
+ |º>º If necessary process the RealsComplexRoots.py module again! º>º|
+ =====================================================================
 
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 		 
-2.) If the delta discriminant is zero( delta = 0)
+# 2.) If the delta discriminant is zero( delta = 0)
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -106,7 +106,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 		 
-3.) If the delta discriminant is negative( delta < 0) will get two complexs roots of the complete quadratic equation
+# 3.) If the delta discriminant is negative( delta < 0) will get two complexs roots of the complete quadratic equation
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -158,7 +158,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 		 
-4.) Incomplete quadratic equation 
+# 4.) Incomplete quadratic equation 
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -202,7 +202,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
-5.) The solution of the first level equation 
+# 5.) The solution of the first level equation 
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -243,7 +243,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 
-6.) If the coefficients: a = b = c = 0 see below:
+# 6.) If the coefficients: a = b = c = 0 see below:
 
 = RESTART: /home/cristovom/Python-3.8.10-Lab/Module-Tools/RunRealsComplexRoots.py
 
@@ -305,7 +305,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
-7.) If the coefficients: a = ? and b = c = 0 see below:
+# 7.) If the coefficients: a = ? and b = c = 0 see below:
 
 =============== RESTART: /home/cristovom/RunRealsComplexRoots.py ===============
 
@@ -350,7 +350,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
-8.) If the coefficients: a = 0, b = ? and c = 0 see below:
+# 8.) If the coefficients: a = 0, b = ? and c = 0 see below:
 
 =============== RESTART: /home/cristovom/RunRealsComplexRoots.py ===============
 
