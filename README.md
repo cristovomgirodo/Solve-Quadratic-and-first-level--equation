@@ -8,7 +8,7 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*xÂ
 # 2.) After, follow the informations of this program into the display.
 # 3.) In any Linux operating system, open the file RunRealsComplexRoots.py using the editor IDLE and after click in Run --> Run module and follow the informations       of this program into the display.
 # [ Warning! ] 
-# Run only the file RunRealsComplexRoots.py to get the roots: the root1, root2 and root. The file RunRealsComplexRoots.py will run too the RealsComplexRoots.py    module.
+# Run only the file RunRealsComplexRoots.py to get the roots: root1, root2 and root. The file RunRealsComplexRoots.py will run too the RealsComplexRoots.py    module.
 
 # Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.1
 # Note: In 20211021 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.2 
