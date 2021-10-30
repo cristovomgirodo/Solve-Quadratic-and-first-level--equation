@@ -11,9 +11,12 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
       
 # [ Warning! ] 
 # Run only the file RunRealsComplexRoots.py to get the roots: root1, root2 or root. The file RunRealsComplexRoots.py will run too the RealsComplexRoots.py    module.
+# In Version: 4.3 (stable) the code into the definition enterData() function was update to avert any user type an string to the coefficients.
+# For example see the [coefficients]: a = -3, b = 8 and c = h(string) is not let use.
 
 # Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.1
 # Note: In 20211021 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.2 
+# Note: In 20211030 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.3 (stable)
 
 # For example see the use of the file RunRealsComplexRoots.py below:
 
@@ -378,6 +381,57 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
 
 
 	+ The new real root will:  0.00      
+
+
+  =====================================================================
+  |º>º If necessary process the RealsComplexRoots.py module again! º>º|
+  =====================================================================
+
+
+		 . . .Key [ENTER] to exit, Ok!. . .
+		 
+# 9.) Run with the new Version: 4.3 (Stable)
+
+        ========================================================
+	  [   Welcome using The RealsComplexRoots.py module  ]
+	--------------------------------------------------------
+	 -_- Find the roots: root1 and root2 reals or complexs 
+	========================================================
+		 _-_ New Version: 4.3 -- [ Stable ] _-_
+		    [Developed by Cristovom A.Girodo]
+
+	* Provide the 1º [coefficient(a)].
+	-_- What is the new value? -17
+	    **[The typed number]: -17.0 is a [valid float number!]
+]
+
+	* Enter with the 2º [coefficient(b)].
+	-_- What is the new value? b
+	    ////
+	    º<º [Warning!]: could not convert string to float: 'b'
+	    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]
+
+	-_- What is the new value? 22
+	    **[The typed number]: 22.0 is a [valid float number!]
+]
+
+	* Give the 3º [coefficient(c)].
+	-_- What is the new value? 33
+	    **[The typed number]: 33.0 is a [valid float number!]
+]
+
+
+		============================================
+		| . . . *[ ANSWER TO THE EQUATION ]* . . . |
+		============================================
+
+
+   + The new value of [delta] =  2728.0
+   + The value of the [raisedelta] =  52.23     
+
+   + The [roots] are:  
+   + The first  root(root1)= -0.89      
+   + The second root(root2)= 2.18      
 
 
   =====================================================================
