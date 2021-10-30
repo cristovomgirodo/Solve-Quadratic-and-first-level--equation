@@ -1,7 +1,8 @@
 #
-# The RealsComplexRoots.py module -- update in 20211019
+# The RealsComplexRoots.py module -- update in 20211030
 # Developed by Cristovom A. Girodo
-# 
+# Version: 4.3(Stable)
+#
 
 import math
 import cmath
@@ -12,17 +13,17 @@ def reals_complex_roots():
     a, b, c, delta, expression, raisedelta, root, root1, root2 = 0, 0, 0, 0, 0, 0, 0, 0, 0
     
     def enterData():
-        # update the definition of the enterData function
+        # update the enterData function
         def introduce():
             while True:
-            try:
-                coeffic = float(input("\t-_- What is the new value? "))
-                print('\t    **[The typed number]:',coeffic,'is a [valid float number!]\n]')
-                return coeffic
-            except ValueError as err:
-                print('\t    ////')
-                print('\t    º<º [Warning!]:',err)
-                print('\t    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]\n') 
+                try:
+                    coeffic = float(input("\t-_- What is the new value? "))
+                    print('\t    **[The typed number]:',coeffic,'is a [valid float number!]\n]')
+                    return coeffic
+                except ValueError as err:
+                    print('\t    ////')
+                    print('\t    º<º [Warning!]:',err)
+                    print('\t    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]\n')       
         for j in range(1, 4):
             if j == 1:
                 print("\n\t* Provide the %dº" %j,"[coefficient(a)].")
@@ -150,7 +151,6 @@ def reals_complex_roots():
         print('\t[ b*x+0 = 0 ] ==> [ b*x = 0 ] ==> [ x = 0 / b ] ==> [ x = 0 ] ==> [ x = root = zero ]\n')
         root = 0
         solution = answerRoot()
-            
 
     print("\n\n  =====================================================================")
     print("  |º>º If necessary process the RealsComplexRoots.py module again! º>º|")
@@ -158,10 +158,5 @@ def reals_complex_roots():
 
 
 reals_complex_roots()
-
-
-
-
-
 
 
