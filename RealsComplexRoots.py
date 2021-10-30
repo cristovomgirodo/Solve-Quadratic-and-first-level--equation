@@ -11,11 +11,18 @@ def reals_complex_roots():
     # global variables
     a, b, c, delta, expression, raisedelta, root, root1, root2 = 0, 0, 0, 0, 0, 0, 0, 0, 0
     
-    def introduce():
-        coef = eval(input("\t-_- What is the new value? "))
-        return coef
-    
     def enterData():
+        # update the definition of the enterData function
+        def introduce():
+            while True:
+            try:
+                coeffic = float(input("\t-_- What is the new value? "))
+                print('\t    **[The typed number]:',coeffic,'is a [valid float number!]\n]')
+                return coeffic
+            except ValueError as err:
+                print('\t    ////')
+                print('\t    º<º [Warning!]:',err)
+                print('\t    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]\n') 
         for j in range(1, 4):
             if j == 1:
                 print("\n\t* Provide the %dº" %j,"[coefficient(a)].")
