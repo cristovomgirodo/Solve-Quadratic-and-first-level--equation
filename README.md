@@ -406,9 +406,9 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
 ]
 
 	* Enter with the 2º [coefficient(b)].
-	-_- What is the new value? b
+	-_- What is the new value? h
 	    ////
-	    º<º [Warning!]: could not convert string to float: 'b'
+	    º<º [Warning!]: could not convert string to float: 'h'
 	    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]
 
 	-_- What is the new value? 22
