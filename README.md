@@ -141,12 +141,14 @@ $ python3 RunRealsComplexRoots.py
 		============================================
 
 
-   + The new value of [delta] =  -47
+   	+ The new value of [delta] =  -47
+   
 ```
-   --------------------------------------------------------------------
-   * When the value of delta is negative the equation: a*x**2+b*x+c = 0
+  --------------------------------------------------------------------
+  * When the value of delta is negative the equation: a*x**2+b*x+c = 0
             to theorem have not reals roots. *
-   --------------------------------------------------------------------
+  --------------------------------------------------------------------
+   
 ```
 
 	   * Will get only two complexs roots *
@@ -276,9 +278,9 @@ $ python3 RunRealsComplexRoots.py
 	(º < º) [ WARNING! ]
 	 \ - /
 
-	[ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and
-	  too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]
-	[ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]
+	##### [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and
+	##### too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]
+	##### [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]
 
 	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? -3
