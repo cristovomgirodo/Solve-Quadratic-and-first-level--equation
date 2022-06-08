@@ -10,25 +10,25 @@ The file RunRealsComplexRoots.py will solve any complete quadratic equation a*x�
 ```
 $ python3 RunRealsComplexRoots.py 
 ```     
-```
-### [ Warning! ] 
-### Run only the file RunRealsComplexRoots.py to get the roots: root1, root2 or root. The file RunRealsComplexRoots.py will run too the RealsComplexRoots.py module.
-### In Version: 4.3 (stable) the code into the definition enterData() function was update to avert any user type an string to the coefficients.
-### For example see the [coefficients]: a = -3, b = 8 and c = h(string) is not let use.
 
-### Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.1
-### Note: In 20211021 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.2 
-### Note: In 20211030 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.3 (stable)
+#### [ Warning! ] 
+###### Run only the file RunRealsComplexRoots.py to get the roots: root1, root2 or root. The file RunRealsComplexRoots.py will run too the RealsComplexRoots.py module.
+###### In Version: 4.3 (stable) the code into the definition enterData() function was update to avert any user type an string to the coefficients.
+###### For example see the [coefficients]: a = -3, b = 8 and c = h(string) is not let use.
 
-### For example see the use of the file RunRealsComplexRoots.py below:
-```
+###### Note: In 20211019 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.1
+###### Note: In 20211021 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.2 
+###### Note: In 20211030 the files: RunRealsComplexRoots.py and RealsComplexRoots.py was update -- Version: 4.3 (stable)
+
+###### For example see the use of the file RunRealsComplexRoots.py below:
+
 ## 1.) If the delta discriminant is positive( delta > 0)
 
-## Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
-## [GCC 9.3.0] on linux
-## Type "help", "copyright", "credits" or "license()" for more information.
-## >>> 
-## = RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
+### Python 3.8.10 (default, Sep 28 2021, 16:10:42) 
+### [GCC 9.3.0] on linux
+### Type "help", "copyright", "credits" or "license()" for more information.
+### >>> 
+### = RESTART: /home/cristovom/Python-3.8.5-LabDev-2020/Module-Tools/RunRealsComplexRoots.py
 
 	========================================================
 	  [   Welcome using The RealsComplexRoots.py module  ]
@@ -275,11 +275,9 @@ $ python3 RunRealsComplexRoots.py
 	(º < º) [ WARNING! ]
 	 \ - /
 
-```
-### [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and
-###   too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]
-### [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]
-```
+	###### [ No exist none complete quadratic equation: [ a*x**2+b*x+c = 0 ] when the coefficients: a = 0, b = 0 and c = 0 and
+	######   too none first level equation: [ b*x+c = 0 ] to solve--Ok! ]
+	###### [ Enter with [New values] to the [ coefficients: a = ?, b = ? and c = ? ]
 
 	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? -3
