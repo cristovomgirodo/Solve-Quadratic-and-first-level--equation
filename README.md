@@ -404,10 +404,12 @@ $ python3 RunRealsComplexRoots.py
 		 _-_ New Version: 4.3 -- [ Stable ] _-_
 		    [Developed by Cristovom A.Girodo]
 
+
+
 	* Provide the 1º [coefficient(a)].
 	-_- What is the new value? -17
-	    **[The typed number]: -17.0 is a [valid float number!]
-]
+	    **[The typed number]: -17.0 is a [valid float number!]]
+
 
 	* Enter with the 2º [coefficient(b)].
 	-_- What is the new value? h
@@ -416,18 +418,19 @@ $ python3 RunRealsComplexRoots.py
 	    \~/ [TYPE AN NEW INTEGER OR FLOAT NUMBER IN NEXT INSTRUCTION -- OK!]
 
 	-_- What is the new value? 22
-	    **[The typed number]: 22.0 is a [valid float number!]
-]
+	    **[The typed number]: 22.0 is a [valid float number!]]
+
 
 	* Give the 3º [coefficient(c)].
 	-_- What is the new value? 33
-	    **[The typed number]: 33.0 is a [valid float number!]
-]
+	    **[The typed number]: 33.0 is a [valid float number!]]
+
 
 
 		============================================
 		| . . . *[ ANSWER TO THE EQUATION ]* . . . |
 		============================================
+
 
    + The new value of [delta] =  2728.0
    + The value of the [raisedelta] =  52.23     
@@ -436,13 +439,18 @@ $ python3 RunRealsComplexRoots.py
    + The first  root(root1)= -0.89      
    + The second root(root2)= 2.18      
 
-```
+
   =====================================================================
   |º>º If necessary process the RealsComplexRoots.py module again! º>º|
   =====================================================================
-```
+
 
 		 . . .Key [ENTER] to exit, Ok!. . .
 		 
 ##### Good Luck! the all in using the file RunRealsComplexRoots.py that created.
 
+#### [Warning]:
+
+The example: 9.) was update into the this Readme.md as too the RealsComplexRoots.py file. 
+
+###### Edited and fixed by Cristovom A. Girodo
