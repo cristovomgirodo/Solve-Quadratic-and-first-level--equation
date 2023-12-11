@@ -455,7 +455,7 @@ The example: 9.) was update into the this Readme.md as too the RealsComplexRoots
 
 #### [New Up date!] -- [Year: 2023]:
 
-This new **[version: 5.0]** will introduce the following files: the **AlgQuadratic_FirstLevel_Equation.py** module, **Changelog.md**, **RunAlgQuadratic_FirstLevel_Equation.py** program, and **viewExamples.pdf** which was developed using an Class, the Methods, objects, functions and others.The **Changelog.md** and **viewExamples.pdf** files are the first time introduce here in README.md file.
+This new **[version: 5.0]** will introduce the following files: the **AlgQuadratic_FirstLevel_Equation.py** module, **Changelog.md**, **RunAlgQuadratic_FirstLevel_Equation.py** program, and **viewExamples.pdf** which was developed using an Class, the Methods, objects, functions and others.The **Changelog.md** and **viewExamples.pdf** files are the first time introduced here in README.md file.
 The **Changelog.md** will describe all the techniques of Python programming syntax used in the full development of the files: **AlgQuadratic_FirstLevel_Equation.py** module and **RunAlgQuadratic_FirstLevel_Equation.py** program. All the previous examples was tested with the **RunAlgQuadratic_FirstLevel_Equation.py** program.
 
 ### Instructions of use: 
