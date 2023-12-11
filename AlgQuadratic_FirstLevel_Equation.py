@@ -2,7 +2,7 @@
 #
 #	The AlgQuadratic_FirstLevel_Equation.py module
 #	Will find the [ Reals(|R) and Complexs(C) Roots of the Equations.
-#	-----------------------------------------------------------------------	
+#	-------------------------------------------------------------------
 #	Developed by Cristovom A. Girodo  
 #	Data: 28/07/2023  --  Version: 5.0 (Stable)
 #
@@ -29,7 +29,7 @@ class Quadratic_FirstLevel_Equation:
 				print('\t         [ IN NEXT INSTRUCTION -- OK! ]\n')
                    	
 	def getcoeficientes(self):
-		# função: novocoeficinte() created as sub-rotina of getcoeficientes(self) method.
+		# function: novocoeficinte() created as sub-rotina of getcoeficientes(self) method.
 		def novocoeficinte():
 			valor = self.introduce()
 			print(f'\t----------------------------------------\n')
