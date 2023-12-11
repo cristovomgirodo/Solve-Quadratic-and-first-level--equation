@@ -460,7 +460,7 @@ The **Changelog.md** will describe all the techniques of Python programming synt
 
 ### Instructions of use: 
 ##### 1.) First access and download the Solve-Quadratic-and-First-Level-equation.
-##### 2.) To run the RunAlgQuadratic_FirstLevel_Equation.py file into the Windows operating system, access this RunAlgQuadratic_FirstLevel_Equation.py file where reside in any diretory of the computer and follow given an click with the #####     right button mouse on this file. After follow given an click in guides: [open with] --> [Python].
+##### 2.) To run the RunAlgQuadratic_FirstLevel_Equation.py file into the Windows operating system, access this RunAlgQuadratic_FirstLevel_Equation.py file where reside in any diretory of the computer and follow given an click with the right button mouse on this file. After follow given an click in guides: [open with] --> [Python].
 ##### 3.) Next, follow the informations of this program into the display.
 ##### 4.) In any Linux operating system, open the RunAlgQuadratic_FirstLevel_Equation.py file using the editor IDLE and after click in [Run --> Run] module and follow the informations of this program into the display. 
 ##### 5.) If use any **Terminal** type the following command:
