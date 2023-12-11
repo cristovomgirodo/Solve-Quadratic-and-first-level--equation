@@ -453,4 +453,21 @@ $ python3 RunRealsComplexRoots.py
 
 The example: 9.) was update into the this Readme.md as too the RealsComplexRoots.py file. 
 
-###### Edited and fixed by Cristovom A. Girodo
+#### [New Up date!] -- [Year: 2023]:
+
+This new **[version: 5.0]** will introduce the following files: the **AlgQuadratic_FirstLevel_Equation.py** module, **Changelog.md**, **RunAlgQuadratic_FirstLevel_Equation.py** program, and **viewExamples.pdf** which was developed using an Class, the Methods, objects, functions and others.The **Changelog.md** and **viewExamples.pdf** files are the first time introduce here in README.md file.
+The **Changelog.md** will describe all the techniques of Python programming syntax used in the full development of the files: **AlgQuadratic_FirstLevel_Equation.py** module and **RunAlgQuadratic_FirstLevel_Equation.py** program. All the previous examples was tested with the **RunAlgQuadratic_FirstLevel_Equation.py** program.
+
+### Instructions of use: 
+##### 1.) First access and download the Solve-Quadratic-and-First-Level-equation.
+##### 2.) To run the RunAlgQuadratic_FirstLevel_Equation.py file into the Windows operating system, access this RunAlgQuadratic_FirstLevel_Equation.py file where reside in any diretory of the computer and follow given an click with the #####     right button mouse on this file. After follow given an click in guides: [open with] --> [Python].
+##### 3.) Next, follow the informations of this program into the display.
+##### 4.) In any Linux operating system, open the RunAlgQuadratic_FirstLevel_Equation.py file using the editor IDLE and after click in [Run --> Run] module and follow the informations of this program into the display. 
+##### 5.) If use any **Terminal** type the following command:
+
+```
+$ python3 RunAlgQuadratic_FirstLevel_Equation.py 
+```     
+
+###### Re-edited in 20231211 by Cristovom A. Girodo ( Was receive the higher graduation in mathematics in the F.F.C.L. “Oswaldo Cruz” in São Paulo/SP).
+
