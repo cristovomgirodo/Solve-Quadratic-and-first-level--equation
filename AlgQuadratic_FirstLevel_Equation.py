@@ -37,16 +37,17 @@ class Quadratic_FirstLevel_Equation:
 			
 		for j in range(1,4):
 			if j == 1:
-				print(f'\n\t*[Enter [news] Coefficients of the Quadratic Equation]*')	
+				print(f'\n\t*[Enter [news] Coefficients of the Quadratic Equation]*\n')
+				print(f'\t   - The {j}º [coefficient(a)]: ')	
 				self.coef_a = novocoeficinte()
 			elif j == 2:
-				print(f'\t   - The {j}º [coefficients(b)]: ')
+				print(f'\t   - The {j}º [coefficient(b)]: ')
 				self.coef_b = novocoeficinte()
 			elif j == 3:
-				print(f'\t   - The {j}º [coefficients(c)]: ')
+				print(f'\t   - The {j}º [coefficient(c)]: ')
 				self.coef_c = novocoeficinte()
 				if self.coef_a != 0 and self.coef_b != 0 and self.coef_c != 0:
-					print('\t--[ [reals] Coefficients typed, Ok!]--\n')	
+					print('\t--[ [reals] Coefficients typed, Ok!]--\n')
 					
 				while self.coef_a == 0 and self.coef_b == 0 and self.coef_c == 0:
 					print('\n\t\t_|=*=|_	')
